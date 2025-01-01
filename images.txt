@@ -1,3 +1,5 @@
 nginx:latest
 xiaoyaliu/alist:latest
 shenxianmq/auto_symlink:latest
+dzhuang/tinymediamanager:latest
+amilys/embyserver:latest
