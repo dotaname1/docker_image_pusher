@@ -1,2 +1,3 @@
 nginx:latest
 xiaoyaliu/alist:latest
+shenxianmq/auto_symlink:latest
