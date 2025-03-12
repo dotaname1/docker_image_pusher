@@ -3,3 +3,4 @@ xiaoyaliu/alist:latest
 shenxianmq/auto_symlink:latest
 dzhuang/tinymediamanager:latest
 amilys/embyserver:latest
+arm64v8/ubuntu:latest
